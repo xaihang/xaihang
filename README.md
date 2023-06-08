@@ -1,3 +1,5 @@
-### Hello there! 👋
+# Hello! 👋 
 
-I'm excited in merging my management and customer service experience with the constantly evolving world of tech innovation. My end goal is to use these skills to design products that genuinely impact people's lives for the better. When I'm not fully immersed in tech, you'll likely find me out in nature, taking on challenging hikes or whipping up some delicious meals in the kitchen. So, let's dive in and get started - we have some amazing things to accomplish together!
+Welcome to my exhilarating journey where I seamlessly blend my management and customer service finesse with the dynamic realm of technology. My mission is crystal clear: to fashion awe-inspiring products that leave a lasting, positive impact on people's lives. But hold on tight because there's more to me than just lines of code!
+
+Right now, I'm plunging headfirst into the captivating universe of Next.js, Tailwind CSS, and Node.js. These formidable tools fuel my passion for crafting jaw-dropping, high-performance web applications. And guess what? I'm not stopping there! I'm on a daring quest to conquer the boundless domain of AWS and cloud services, continuously expanding my knowledge and pushing my capabilities to new frontiers.
